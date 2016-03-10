@@ -1,0 +1,28 @@
+name: sexdrugshelveticabold
+favicon: null
+layout_spectrum: 0.25924479798413813
+typography_spectrum: 0.09344975813291967
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5895596048794687
+  lightness: 0.9432415049523115
+  saturation: 0.9396456386893988
+  rhythmicContrast: 0.23583062551915646
+purpose: []
